@@ -10,6 +10,12 @@ import gcm_filters
 import warnings
 warnings.filterwarnings('ignore')
 
+
+
+
+
+
+
 class DoubleGyre_Snapshots():
     def __init__(
         self, 
